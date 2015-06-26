@@ -6,6 +6,7 @@
 ###Release  
 __version 1.3.0__  
 Linux:[x64](http://7xiyak.com1.z0.glb.clouddn.com/1.3.0linux64.zip)  
+Windows:[x64](http://7xiyak.com1.z0.glb.clouddn.com/1.3.0windows64.zip)  
 其他平台参考`Manual Install`  
 
 ###Feature  
